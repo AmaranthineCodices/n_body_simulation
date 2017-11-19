@@ -1,0 +1,6 @@
+[package]
+name = "n_body_simulation"
+version = "0.1.0"
+authors = ["AmaranthineCodices <31936135+AmaranthineCodices@users.noreply.github.com>"]
+
+[dependencies]
